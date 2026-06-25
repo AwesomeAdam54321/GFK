@@ -1,3 +1,1 @@
-Inside is a minimal filesystem that can be implemented with the least amount of effort.
-
-No optional feature need be implemented when bootstrapping.
+The fever dream of a filesystem that is probably a terrible idea but yet it remains.
