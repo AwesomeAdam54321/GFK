@@ -133,7 +133,7 @@ DATA BLOCK layout:
 008-00B: Block type TAG (TAG: DATA)
 00C-00F: type of contents TAG (TAG: FILE/METADATA)
 010-017: Sequence #
-014-FF7: DATA
+018-FF7: DATA
 FF8-FFF: Checksum of this block[0]
 
 If data block contents, sequences and type are the same between versions, they may
